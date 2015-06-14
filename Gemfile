@@ -12,8 +12,8 @@ group :development, :test do
   gem 'web-console', '~> 2.0'
   gem 'spring'
 end
-gem 'bootstrap-sass'
-gem 'devise'
+  gem 'bootstrap-sass'
+  gem 'devise'
 group :development do
   gem 'better_errors'
   gem 'quiet_assets'
